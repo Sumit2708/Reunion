@@ -1,0 +1,135 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.navbar {
+  display: flex;
+  width: 100%;
+  padding: 0px 100px;
+  position: static;
+  line-height: 50px;
+  background-color: rgb(250, 243, 243);
+}
+
+nav p {
+  padding: 0px 35px 0px 10px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: black;
+  text-transform: capitalize;
+  display: inline-block;
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-start;
+}
+
+nav li {
+  list-style-type: none;
+  font-size: 15px;
+  padding: 0px 20px;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 10px;
+  width: 70%;
+}
+
+.card {
+  background-color: rgb(250, 243, 243);
+  width: 220px;
+  height: 300px;
+  margin: 10px 20px 10px 20px;
+  border-radius: 6px;
+}
+.card_img {
+  margin-bottom: 18px;
+}
+.prop_img{
+  width: 220px;
+  height: 150px;
+  border-radius: 6px 6px 0 0;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 400px;
+  margin: auto;
+  margin-top: 50px;
+  background-color: rgb(250, 243, 243);
+  border-radius: 10px;
+}
+
+input,
+button,select {
+  margin: 10px;
+  padding: 5px;
+  border: 1px solid rgb(88, 82, 212);
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+.selling_heading {
+  margin: 20px;
+  padding: 4px;
+  border-bottom: 1px solid rgb(88, 82, 212);
+}
+button {
+  color: white;
+  background-color: rgb(88, 82, 212);
+  cursor: pointer;
+}
+
+.data{
+  padding: 5px;
+  margin: 0px 0px 0px 25px;
+}
+
+.firstContainer{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: 5%;
+  width: 58%;
+}
+
+.secondContainer{
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 58%;
+  background-color: rgb(250, 243, 243);
+  border-radius:6px ;
+  margin-top: 1%;
+}
+
+label{
+  display: block;
+}
+
+.dropdown{
+  margin: 10px ;
+  text-align: center;
+  padding: 9px;
+}
+
+.search{
+  font-size: larger;
+}

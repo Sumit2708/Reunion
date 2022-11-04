@@ -1,0 +1,78 @@
+{
+  "estates": [
+    {
+      "id": 1,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/25/fb/8c/46/hotel-exterior.jpg",
+      "price": 14000,
+      "title": "Royal Palace",
+      "location": "Pune,India",
+      "avilable_date": "2022-11-05",
+      "property_type": "Residency"
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtx5uY3JPmeF_7QdztHzDVYsQNMc6Z-nY2SQ&usqp=CAU",
+      "price": 36000,
+      "title": "Palm Harbour",
+      "location": "New York,USA",
+      "avilable_date": "2022-11-04",
+      "property_type": "villa"
+    },
+    {
+      "id": 3,
+      "price": 48000,
+      "image": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/295090917.jpg?k=d17621b71b0eaa0c7a37d8d8d02d33896cef75145f61e7d96d296d88375a7d39&o=&hp=1",
+      "title": "Smith Ave",
+      "location": "Sydney,Austrilia",
+      "avilable_date": "2022-11-05",
+      "property_type": "villa"
+    },
+    {
+      "id": 4,
+      "image": "https://www.hotelscombined.in/himg/75/c8/84/revato-275450-12292942-924181.jpg",
+      "price": 12000,
+      "title": "Aman Residency",
+      "location": "Delhi,India",
+      "avilable_date": "2022-11-06",
+      "property_type": "house"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn2.hubspot.net/hubfs/439788/Blog/Featured%20Images/Best%20Hotel%20Website%20Designs.jpg",
+      "price": 59000,
+      "title": "Old School House",
+      "location": "Londan,England",
+      "avilable_date": "2022-11-06",
+      "property_type": "house"
+    },
+    {
+      "id": 6,
+      "price": 42000,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/22/25/ce/ea/kingsford-hotel-manila.jpg",
+      "title": "Hotel woodland",
+      "location": "Los Angeles, California,USA",
+      "avilable_date": "2022-11-07",
+      "property_type": "Residency"
+    }
+  ],
+  "favourite": [
+    {
+      "id": 6,
+      "price": 42000,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/22/25/ce/ea/kingsford-hotel-manila.jpg",
+      "title": "Hotel woodland",
+      "location": "Los Angeles, California,USA",
+      "avilable_date": "2022-11-07",
+      "property_type": "Residency"
+    },
+    {
+      "image": "C:\\fakepath\\logo.jpg",
+      "price": "5000",
+      "title": "sumit house",
+      "location": "mumbai",
+      "avilable_date": "2022-11-08",
+      "property_Type": "villa",
+      "id": 7
+    }
+  ]
+}
